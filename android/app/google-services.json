@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "531911545008",
+    "project_id": "salvatara-6cba7",
+    "storage_bucket": "salvatara-6cba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531911545008:android:2812bebebfa6db5589eb75",
+        "android_client_info": {
+          "package_name": "com.iu.salvatara.salvatara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531911545008-8et5ngmtu8hbf6l4ljkh5l333ps1030f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iu.salvatara.salvatara",
+            "certificate_hash": "7fd615573d564ab7adee40ff7f9f09b1e0013e90"
+          }
+        },
+        {
+          "client_id": "531911545008-i77l3lkdghnebnolh72ssm2c16vl88o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdYV5-z4KQQS1STg4lZ1zKrczoMAssmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531911545008-i77l3lkdghnebnolh72ssm2c16vl88o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531911545008-0sogn5u4u2aspp3p2e1e4k0tphnrsv80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iu.salvatara.salvatara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
